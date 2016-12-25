@@ -11,10 +11,14 @@ main
 				GPIO_Config_Pin_Alternate_Function
 					GPIO_Config
 						GPIO_Clk_Enable
+	UART3_Init_Advanced
+		UARTx_Init_Advanced
 	UART2_Write_Text
 		UARTx_Write_Text
 			UARTx_Write
 	UART2_Write
+		UARTx_Write
+	UART3_Write
 		UARTx_Write
 interrupt
 	UART2_Data_Ready
