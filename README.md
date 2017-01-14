@@ -44,3 +44,6 @@ https://www.itead.cc/wiki/Nextion_Instruction_Set
 		0X71+variable binary data(4 bytes little endian mode, low in front)+End
 		Instance:0X71 0X66 0X00 0X00 0X00 0XFF 0XFF 0XFF
 		Meaning: 102
+		
+		
+		

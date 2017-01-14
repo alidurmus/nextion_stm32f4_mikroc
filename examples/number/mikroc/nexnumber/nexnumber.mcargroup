@@ -1,0 +1,6 @@
+[PROJECTS]
+Count=2
+Project0=..\number\number.mcpar
+Project1=nexnumber.mcpar
+[ActiveProject]
+Index=1
